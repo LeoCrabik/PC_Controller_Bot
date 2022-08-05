@@ -1,5 +1,5 @@
 * linguist-vendored
+* linguist-language
 *.html linguist-vendored=false
-*.tex linguist-vendored=false
 *.py linguist-vendored=true
 *.py linguist-language=Python
