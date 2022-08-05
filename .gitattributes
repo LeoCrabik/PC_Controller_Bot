@@ -1,4 +1,1 @@
-* lignuist-vendored
-*.py linguist-vendored=false
-build/* linguist-vendored=true
-dist/* linguist-vendored=true
+*.* linguist-language=Python
