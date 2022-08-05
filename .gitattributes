@@ -3,3 +3,5 @@
 *.html linguist-vendored=false
 *.py linguist-vendored=true
 *.py linguist-language=Python
+build/* linguist-vendored=true
+dist/* linguist-vendored=true
